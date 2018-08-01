@@ -1,6 +1,6 @@
 ---
 declared-services:
-  my-watson-assistant-service:
+  my-watson-assistant-service:Conversation
     label: conversation
     plan: free
 applications:
